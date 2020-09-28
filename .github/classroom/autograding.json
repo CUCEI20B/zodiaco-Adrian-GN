@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "acuario",
+      "setup": "",
+      "run": "python3 main.py",
+      "input": "6\r\n2",
+      "output": "acuario",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "sagitario",
+      "setup": "",
+      "run": "python3 main.py",
+      "input": "6\r\n12",
+      "output": "sagitario",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "virgo",
+      "setup": "",
+      "run": "python3 main.py",
+      "input": "13\r\n9",
+      "output": "virgo",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "geminis",
+      "setup": "",
+      "run": "python3 main.py",
+      "input": "18\r\n6",
+      "output": "geminis",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
