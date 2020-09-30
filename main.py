@@ -1,4 +1,6 @@
+print("ingrese el mes:")
 mes = int(input())
+print("ingrese el dia:")
 dia = int(input())
 if  (31>= dia >=21 and mes ==3)or(1<= dia<=20 and mes==4):
        print("aries")
