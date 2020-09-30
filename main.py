@@ -1,26 +1,26 @@
 mes = int(input())
 dia = int(input())
 if  (31>= dia >=21 and mes ==3)or(1<= dia<=20 and mes==4):
-       print("Aries")
+       print("aries")
 if (30>= dia >=21 and mes ==4)or(1<= dia<=20 and mes==5):
-       print("Tauro")
+       print("tauro")
 if  (31>= dia >=21 and mes ==5)or(1<= dia<=21 and mes==6):
-       print("Geminis")
+       print("geminis")
 if  (30>= dia >=22 and mes ==6)or(1<= dia<=22 and mes==7):
-       print("Cancer")
+       print("cancer")
 if (31>= dia >=23 and mes ==7)or(1<= dia<=22 and mes==8):
-       print("Leo")
+       print("leo")
 if  (31>= dia >=23 and mes ==8)or(1<= dia<=22 and mes==9):
-       print("Virgo")
+       print("virgo")
 if (30>= dia >=23 and mes ==9)or(1<= dia<=22 and mes==10):
-       print("Libra")
+       print("libra")
 if  (31>= dia >=23 and mes ==10)or(1<= dia<=22 and mes==11):
-       print("Escorpio")
+       print("escorpio")
 if  (30>= dia >=23 and mes ==11)or(1<= dia<=21 and mes==12):
-       print("Sagitario")
+       print("sagitario")
 if  (31>= dia >=22 and mes ==12)or(1<= dia<=20 and mes==1):
-       print("Capricornio")
+       print("capricornio")
 if  (31>= dia >=21 and mes ==1)or(1<= dia<=18 and mes==2):
-       print("Aquario")
+       print("aquario")
 if  (29>= dia >=19 and mes ==2)or(1<= dia<=20 and mes==3):
-       print("Pisis")
+       print("pisis")
